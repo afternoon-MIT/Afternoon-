@@ -1,0 +1,38 @@
+.x{
+    background-color: maroon !important;
+    backgrou
+}
+body{background-color: white!important;}
+.box-login{width: 380px;margin: 0 auto;height: 157px; !important}
+input{
+  width: 300px;
+  height: 33px;
+  border: solid;!important
+}
+.box-login{
+  width:240px;
+  height: 39px;
+  background-color: #00ffd9;!important
+}
+.holder{
+  margin: 0 auto;
+  height: 340px;
+  width: 400px;
+  padding-bottom: 20px;!important
+}
+select{
+  width: 320px;
+  height: 40px;!important
+}
+.btn-click{
+  width: 320px;
+  height: 23px;
+  margin: 0 auto;
+  background-color: crimson;
+  color: #00ffd9;
+  border-color: brown;
+  margin-top: 10px; !important
+}
+.fullname{margin-top: 10px; !important}
+.email{margin-top: 10px; !important}
+.password{margin-top: 10px; !important}
